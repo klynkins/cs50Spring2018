@@ -35,7 +35,7 @@ int main(void)
         }
         else
         {
-            // chaneg to equal remainder
+            // change to equal remainder
             change = rem;
             total_coins += num_coins;
 
@@ -48,3 +48,4 @@ int main(void)
 
 }
 
+/* nice clean code, maybe more comments? */

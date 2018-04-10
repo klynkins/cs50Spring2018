@@ -42,3 +42,5 @@ int main(void)
     return 0;
 
 }
+
+/* nice clean code, maybe more comments? */

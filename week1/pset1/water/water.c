@@ -17,3 +17,5 @@ int main(void)
     printf("Bottles: %i\n", num_bottles);
 
 }
+
+/* code is clean and variables are named clearly and concisely */
